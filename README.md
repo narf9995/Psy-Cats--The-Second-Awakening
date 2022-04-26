@@ -9,9 +9,9 @@ Will you unlock the mysteries within or be lost to the hidden city?
 
 __Influences__:
 
- -The Game of Rat and Dragon - Cordwainer Smith
+ -*The Game of Rat and Dragon* by Cordwainer Smith
 
- -American Gods - Neil Gaiman
+ -*American Gods* by Neil Gaiman
 
  -The Secret World of Cats (FATE)
 
@@ -25,7 +25,7 @@ __Influences__:
 
  -Archetype Theory & Post-Jungian Psychology
 
- -“Monomyth” - Hero w/ a Thousand Faces - Joseph Campbell
+ -“Monomyth” - *Hero w/ a Thousand Faces* by Joseph Campbell
 
 
 __Thesis__:
