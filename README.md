@@ -9,23 +9,17 @@ Will you unlock the mysteries within or be lost to the hidden city?
 
 __Influences__:
 
- -*The Game of Rat and Dragon* by Cordwainer Smith
-
- -*American Gods* by Neil Gaiman
-
- -The Secret World of Cats (FATE)
-
- -Psychonauts
-
- -Shadowrun 5e
-
- -The Veil
-
- -60’s/70’s Psychedelia & Transhumanism
-
- -Archetype Theory & Post-Jungian Psychology
-
- -“Monomyth” - *Hero w/ a Thousand Faces* by Joseph Campbell
+- *The Game of Rat and Dragon* by Cordwainer Smith
+- *American Gods* by Neil Gaiman
+- The Secret World of Cats (FATE)
+- Magical Kitties Save the Day (2E)
+- Psychonauts
+- Shadowrun 5e
+- The Veil
+- Diaspora
+- 60’s/70’s Psychedelia & Transhumanism
+- Archetype Theory & Post-Jungian Psychology
+- “Monomyth” - *Hero w/ a Thousand Faces* by Joseph Campbell
 
 
 __Thesis__:
